@@ -14,10 +14,10 @@ The goal is to show consistency, growth, and readiness for the internship.
 
 ### **Week 1 — System Setup & Basics**
 - [x] Learn Linux fundamentals (terminal commands)
-- [ ] Install Ubuntu (Dual Boot)
-- [ ] Install ROS2 Humble
-- [ ] Install VS Code on Ubuntu
-- [ ] Setup essential tools (colcon, git, Python3)
+- [x] Install Ubuntu (Dual Boot)
+- [x] Install ROS2 Humble
+- [x] Install VS Code on Ubuntu
+- [x] Setup essential tools (colcon, git, Python3)
 
 ### **Week 2 — ROS2 Fundamentals**
 - [ ] Understand nodes, topics, publishers, subscribers
