@@ -4,7 +4,7 @@ Differential-drive mobile robot modeled using URDF/Xacro in ROS 2 Humble.
 
 ## Robot Visualization (RViz)
 
-![Mobile Robot RViz](images/mobile_robot_rviz.png)
+
 
 ## Features
 - Differential drive base
